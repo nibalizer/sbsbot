@@ -1,7 +1,7 @@
 Markdown==2.4
 PAM==0.4.2
 Pillow==2.3.0
-PyYAML==3.10
+PyYAML==5.4
 Pygments==1.6
 RBTools==0.4.1
 SecretStorage==2.0.0
